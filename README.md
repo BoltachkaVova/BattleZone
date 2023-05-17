@@ -6,7 +6,7 @@ Technologies in project:
 - Patterns ([StateMachine](Assets/Scripts/Player/PlayerStateMachine), [Pool](Assets/Scripts/Pool/Pool.cs), [Factory](Assets/Scripts/Enemy/EnemyFactory.cs))
 - Save system ([JSON in PlayerPrefs]((Assets/Scripts/GameData/SaveSystemJson.cs)))
 - UniTask 
-- Cinemahine 
+- Cinemachine
 - SO
 - LINQ 
 - Analytics ([Firebase](Assets/Scripts/GameManager.cs))
